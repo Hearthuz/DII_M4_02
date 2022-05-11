@@ -19,6 +19,10 @@ ul li::before{
 ol {
     color: #F1FAEE;
 }
+ul>li:nth-child(odd) {
+    color: #E63946;
+}
+
 .non_sporting {
     background-color: #45789D;  
 }
